@@ -1,0 +1,30 @@
+[
+    {
+        "nome": "Oceano",
+        "artista": "Djavan",
+        "capa": "oceano.png",
+        "audio": "ocea.mp3"
+    },
+
+    {
+        "nome": "Construção ",
+        "artista": "Chico Buarque",
+        "capa": "chico.png",
+        "audio": "cons.mp3"
+    },
+    
+    {
+        "nome": "A Loba",
+        "artista": "Alcione",
+        "capa": "loba.png",
+        "audio": "lob.mp3"
+    },
+    
+    {
+        "nome": "Negro Drama",
+        "artista": "Racionais",
+        "capa": "racio.png",
+        "audio": "nego.mp3"
+    }
+    
+]
